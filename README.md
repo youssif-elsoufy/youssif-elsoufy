@@ -1,8 +1,4 @@
-<h1 align="left">Hello!</h1>
-
-###
-
-<p align="left">My name is Youssef Abdel-Fattah and I'm an Android Developer.</p>
+<h2 align="left">Hello! My name is Youssef Abdel-Fattah and I'm an Android Developer.</h2>
 
 ###
 
